@@ -4,11 +4,11 @@ let selectElem = document.querySelector('select');
 const timeZones = {
     'Asia/Aqtau': 'Asia/Aqtau',
     'Asia/Almaty': 'Asia/Almaty',
+    'Asia/Hong_Kong': 'Asia/Hong_Kong',
     'America/Los_Angeles': 'America/Los_Angeles',
     'America/New_York': 'America/New_York',
     'Europe/Kiev': 'Europe/Kiev',
     'Europe/London': 'Europe/London',
-    'Asia/Hong_Kong': 'Asia/Hong_Kong',
     'Europe/Istanbul': 'Europe/Istanbul',
 }
 
